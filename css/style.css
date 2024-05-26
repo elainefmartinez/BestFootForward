@@ -1,3 +1,6 @@
+*{
+    font-family: Roboto !important;
+}
 .navbar {
     align-items: center;
     display: flex;
@@ -21,6 +24,10 @@ h2{
 .features{
     margin-top: 60px;
 
+}
+
+.feature-two{
+    background-color: #77F2A1 !important;
 }
 
 footer{
