@@ -1,7 +1,17 @@
-nav {
+.navbar {
     align-items: center;
     display: flex;
     height: 70px;
+    background-color: #4F76F6 !important;
+    /* background-color: #1F2B37 !important; */
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.btn-primary{
+background-color: #1F2B37 !important ;
 }
 
 h2{
@@ -12,3 +22,8 @@ h2{
     margin-top: 60px;
 
 }
+
+footer{
+    padding-top: 600px;
+}
+
