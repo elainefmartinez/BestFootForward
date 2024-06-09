@@ -4,13 +4,24 @@
 .navbar {
     align-items: center;
     display: flex;
-    height: auto;
-    background-color: #4F76F6 !important;
+    height: 100px;
+    background-color:#4f76f6 !important;
     /* background-color: #1F2B37 !important; */
-}
-
+    }
+    
 .navbar-brand{
     color: white;
+        
+}
+        
+.title{
+    font-size: 4rem;
+    display: block;
+    font-weight: bold;
+    font-family: Roboto !important;
+    margin-bottom: 200px;
+    /* text-shadow: 1px 1px 2px rgb(10, 9, 9); */
+    
 }
 
 .btn-primary{
@@ -33,14 +44,27 @@ h2{
     margin-top: 120px;
 }
 
-.features{
+.feature-one{
     margin-top: 60px;
+    /* margin-bottom: 30px; */
 
 }
 
 .feature-two{
+    margin-top: 60px;
+    margin-bottom: 60px;
     background-color: #1F2B37 !important;
     color:white;
+}
+
+.feature-three{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+
+.testimonials{
+    margin-top: 60px;
 }
 
 footer{
