@@ -63,8 +63,16 @@ h2{
 }
 
 
-.testimonials{
+.testimonial {
     margin-top: 60px;
+    color:white;
+    background-color:#4f76f6 !important;
+}
+.testimonial-heading{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    
+    /* background-color:#4f76f6 !important; */
 }
 
 footer{
