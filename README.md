@@ -19,6 +19,7 @@
 ---
 
 ## Screenshot:
+![Homepage](https://github.com/elainefmartinez/BestFootForward/assets/85318206/5717ea8b-43fe-4020-87bf-337483ee51fc)
 
 
 
