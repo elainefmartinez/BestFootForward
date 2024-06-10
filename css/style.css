@@ -6,7 +6,7 @@
     display: flex;
     height: 100px;
     background-color:#4f76f6 !important;
-    /* background-color: #1F2B37 !important; */
+   
     }
     
 .navbar-brand{
@@ -20,7 +20,7 @@
     font-weight: bold;
     font-family: Roboto !important;
     margin-bottom: 200px;
-    /* text-shadow: 1px 1px 2px rgb(10, 9, 9); */
+  
     
 }
 
@@ -34,7 +34,7 @@ background-color: #1F2B37 !important ;
 
 .activeButton{
     font-family:  Arial;
-    /* background-color: whitesmoke !important; */
+    
     border:1px solid #77F2A1;
     box-shadow: 0px 0px 0px 3px #77F2A1;
 }
@@ -46,7 +46,7 @@ h2{
 
 .feature-one{
     margin-top: 60px;
-    /* margin-bottom: 30px; */
+    
 
 }
 
@@ -72,7 +72,7 @@ h2{
     margin-top: 10px;
     margin-bottom: 30px;
     
-    /* background-color:#4f76f6 !important; */
+
 }
 
 footer{
