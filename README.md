@@ -20,8 +20,6 @@
 
 ## Screenshot:
 
-![Homepage](https://github.com/elainefmartinez/BestFootForward/assets/85318206/8f19a260-086e-4a30-bc28-8246ea34a777)
-
 
 
 
